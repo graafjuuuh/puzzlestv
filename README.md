@@ -1,3 +1,3 @@
 # puzzlestv
 Website puzzlestv
-URL: https://graafjuuuh.github.io/puzzlestv/
+URL: http://www.puzzlestv.nl
