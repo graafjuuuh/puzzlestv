@@ -44,7 +44,7 @@ body {
 #kop ul li:hover{
     background-color: #418AC9;
 }
-#kop ul li:hover{
+#kop ul li:active{
     background-color: #418FC9;
 }
 #sociaal{
