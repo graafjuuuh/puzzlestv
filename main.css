@@ -14,7 +14,7 @@ body {
 #kop {
  position: relative;
  padding:30px;
- background-color: #069CA4;
+ background-color: #67dfe5;
  height:50px;
  width:960px;
  border-bottom: solid 33px #1C75BC;
@@ -80,7 +80,7 @@ body {
  padding:10px;
  height:30px;
  width:1000px;
- background-color:#8EEBEC;
+ background-color:#069CA4;
  float:left;} 
       
 #inhoud {
