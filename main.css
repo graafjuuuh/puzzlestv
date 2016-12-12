@@ -42,11 +42,13 @@ body {
     color: white;
 }
 #kop ul li:hover{
-    background-color: #418AC9;
+    background-color: #204564;
 }
-#kop ul li active{
-    background-color: #FFFFFF;
-}
+
+#kop ul li.active{
+background-color: black;
+} 
+  
 #sociaal{
     right: 0px;
     position: absolute;
